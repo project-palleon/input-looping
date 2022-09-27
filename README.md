@@ -12,8 +12,12 @@
 1. repetitively loads another frame of a specified movie file
 2. on the core's request it provides the last read frame
 
+## Improvements
+
+1. allow start/stopping
+
 ## Installation
 
-1. install python 3 (I am using version 3.10, I have not tested prior version)
+1. install python 3 (I am using version 3.10, I have not tested prior versions)
 2. install requirements from requirements.txt
 3. start core
